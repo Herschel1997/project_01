@@ -3,14 +3,39 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Title</title>
+	<link rel="stylesheet" href="index.css">
 	<style>
 		.box {
 			width: 100px;
 			height: 100px;
+			margin-bottom: 10px;
+			background-color: pink;
+		}
+		.box2 {
+			width: 200px;
+			height: 200px;
+			background-color: gold;
+			margin-bottom: 10px;
 		}
 	</style>
 </head>
 <body>
 <div class="box"></div>
+<div class="box"></div>
+<div class="box"></div>
+<div class="box"></div>
+<div class="box"></div>
+<div class="box2"></div>
+<div class="box2"></div>
+<div class="box2"></div>
+<script>
+	var foo = 'foo';
+	var bar = 'bar';
+	function fn(){
+		return foo+bar
+	}
+	var str = fn();
+	console.log(str);
+</script>
 </body>
 </html>

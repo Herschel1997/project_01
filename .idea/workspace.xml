@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76c78549-b684-47d5-877d-2bd6540b23f0" name="默认变更列表" comment="第五次修改">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="76c78549-b684-47d5-877d-2bd6540b23f0" name="默认变更列表" comment="第六次修改">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +49,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
@@ -66,7 +65,8 @@
       <updated>1628577886390</updated>
       <workItem from="1628577887518" duration="5484000" />
       <workItem from="1628585133436" duration="108000" />
-      <workItem from="1628585351709" duration="3336000" />
+      <workItem from="1628585351709" duration="4267000" />
+      <workItem from="1628663055593" duration="179000" />
     </task>
     <task id="LOCAL-00001" summary="初始化文件">
       <created>1628580420441</created>
@@ -131,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628595082304</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="第六次修改">
+      <created>1628662136268</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1628662136268</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,7 +162,8 @@
     <MESSAGE value="第三次修改" />
     <MESSAGE value="第四次修改" />
     <MESSAGE value="第五次修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="第五次修改" />
+    <MESSAGE value="第六次修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="第六次修改" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

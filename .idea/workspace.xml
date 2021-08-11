@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76c78549-b684-47d5-877d-2bd6540b23f0" name="默认变更列表" comment="第六次修改">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="76c78549-b684-47d5-877d-2bd6540b23f0" name="默认变更列表" comment="第七次修改" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +64,7 @@
       <workItem from="1628577887518" duration="5484000" />
       <workItem from="1628585133436" duration="108000" />
       <workItem from="1628585351709" duration="4267000" />
-      <workItem from="1628663055593" duration="179000" />
+      <workItem from="1628663055593" duration="311000" />
     </task>
     <task id="LOCAL-00001" summary="初始化文件">
       <created>1628580420441</created>
@@ -138,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628662136268</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="第七次修改">
+      <created>1628663437614</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1628663437614</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,7 +168,8 @@
     <MESSAGE value="第四次修改" />
     <MESSAGE value="第五次修改" />
     <MESSAGE value="第六次修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="第六次修改" />
+    <MESSAGE value="第七次修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="第七次修改" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
